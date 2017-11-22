@@ -1,0 +1,9 @@
+D:\Project\Cardinal\Cardinal\bin\Debug\Cardinal.exe.config
+D:\Project\Cardinal\Cardinal\bin\Debug\Cardinal.exe
+D:\Project\Cardinal\Cardinal\bin\Debug\Cardinal.pdb
+D:\Project\Cardinal\Cardinal\obj\Debug\Cardinal.csprojResolveAssemblyReference.cache
+D:\Project\Cardinal\Cardinal\obj\Debug\Cardinal.Form1.resources
+D:\Project\Cardinal\Cardinal\obj\Debug\Cardinal.Properties.Resources.resources
+D:\Project\Cardinal\Cardinal\obj\Debug\Cardinal.csproj.GenerateResource.Cache
+D:\Project\Cardinal\Cardinal\obj\Debug\Cardinal.exe
+D:\Project\Cardinal\Cardinal\obj\Debug\Cardinal.pdb
