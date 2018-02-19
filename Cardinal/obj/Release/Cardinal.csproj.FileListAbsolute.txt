@@ -1,0 +1,8 @@
+D:\Project\Cardinal\Cardinal\obj\Release\Cardinal.Form1.resources
+D:\Project\Cardinal\Cardinal\obj\Release\Cardinal.Properties.Resources.resources
+D:\Project\Cardinal\Cardinal\obj\Release\Cardinal.csproj.GenerateResource.Cache
+D:\Project\Cardinal\Cardinal\bin\Release\Stalker.exe.config
+D:\Project\Cardinal\Cardinal\bin\Release\Stalker.exe
+D:\Project\Cardinal\Cardinal\bin\Release\Stalker.pdb
+D:\Project\Cardinal\Cardinal\obj\Release\Stalker.exe
+D:\Project\Cardinal\Cardinal\obj\Release\Stalker.pdb
